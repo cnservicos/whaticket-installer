@@ -1,4 +1,4 @@
-ferramenta interativa para instalar e atualizar o whaticket auyomático
+ferramenta interativa para instalar e atualizar o whaticket automático
 ### download & setup
 
 Primeiro você precisa baixá-lo:
