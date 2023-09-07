@@ -1,8 +1,7 @@
-Interactive CLI tool for installing and updating whaticket
-
+ferramenta interativa para instalar e atualizar o whaticket auyomático
 ### download & setup
 
-Firstly, you need to download it:
+Primeiro você precisa baixá-lo:
 
 
 ```bash
@@ -11,7 +10,7 @@ sudo apt install -y git
 git clone https://github.com/cnservicos/whaticket-installer.git
 ```
 
-Now, all you gotta do is making it executable:
+Agora, tudo que você precisa fazer é torná-lo executável:
 
 ```bash
 sudo chmod +x ./whaticket-installer/whaticket
@@ -19,8 +18,7 @@ sudo chmod +x ./whaticket-installer/whaticket
 
 ### usage
 
-After downloading and making it executable, you need to **navigate into** the installer directory and **run the script with sudo**:
-
+Depois de baixá-lo e torná-lo executável, você precisa **navegar até** o diretório do instalador e **executar o script com sudo**:
 ```bash
 cd ./whaticket-installer
 ```
